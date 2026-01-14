@@ -1,0 +1,33 @@
+{"level":"info","message":"Hello from Acquisition!$","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:05:50:38 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisition!$","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:06:02:21 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:06:02:26 +0000] \"GET /api HTTP/1.1\" 200 38 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:06:02:31 +0000] \"GET /api/auth HTTP/1.1\" 404 147 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:06:02:47 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:06:02:51 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisition!$","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:06:05:11 +0000] \"GET / HTTP/1.1\" 200 22 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:06:15:20 +0000] \"POST / HTTP/1.1\" 404 140 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:06:15:27 +0000] \"POST / HTTP/1.1\" 404 140 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:06:15:31 +0000] \"POST / HTTP/1.1\" 404 140 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisition!$","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:06:15:39 +0000] \"GET / HTTP/1.1\" 200 22 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:06:15:51 +0000] \"POST /auth/sign-in HTTP/1.1\" 404 152 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:06:15:59 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"error","message":"Signup error errors.issues.map(...).json is not a function","service":"acquisitions-api","stack":"TypeError: errors.issues.map(...).json is not a function\n    at formatValidationError (file:///D:/W_Learning/docker_course_JSmastery/acquisition_devops/src/utils/format.js:5:46)\n    at signUp (file:///D:/W_Learning/docker_course_JSmastery/acquisition_devops/src/controllers/auth.controller.js:11:18)\n    at Layer.handleRequest (D:\\W_Learning\\docker_course_JSmastery\\acquisition_devops\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (D:\\W_Learning\\docker_course_JSmastery\\acquisition_devops\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (D:\\W_Learning\\docker_course_JSmastery\\acquisition_devops\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (D:\\W_Learning\\docker_course_JSmastery\\acquisition_devops\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (D:\\W_Learning\\docker_course_JSmastery\\acquisition_devops\\node_modules\\router\\lib\\layer.js:152:17)\n    at D:\\W_Learning\\docker_course_JSmastery\\acquisition_devops\\node_modules\\router\\index.js:295:15\n    at processParams (D:\\W_Learning\\docker_course_JSmastery\\acquisition_devops\\node_modules\\router\\index.js:582:12)\n    at next (D:\\W_Learning\\docker_course_JSmastery\\acquisition_devops\\node_modules\\router\\index.js:291:5)"}
+{"level":"info","message":"::1 - - [14/Jan/2026:07:05:37 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 1470 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:07:11:09 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:07:12:08 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 144 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:07:12:43 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 91 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"User registered Successfully: manoj@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:07:12:53 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 100 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"User manojkumar@gmail.com created successfullt","service":"acquisitions-api"}
+{"level":"info","message":"User registered Successfully: manojkumar@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Jan/2026:07:38:34 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 111 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.51.0"}
+{"level":"info","message":"::1 - - [14/Jan/2026:08:41:45 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.51.0"}
+{"level":"info","message":"::1 - - [14/Jan/2026:08:43:38 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.51.0"}
+{"level":"info","message":"::1 - - [14/Jan/2026:08:43:39 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
