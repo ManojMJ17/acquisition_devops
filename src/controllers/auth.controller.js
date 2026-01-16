@@ -5,7 +5,7 @@ import { formatValidationError } from '#utils/format.js';
 import { jwttoken } from '#utils/jwt.js';
 import { signUpSchema } from '#validations/auth.validation.js';
 
-export const signUp = async (req, res, next) => {
+export const signUp = async (req, res) => {
   try {
     const validationResult = signUpSchema.safeParse(req.body);
     if (!validationResult.success) {
@@ -27,8 +27,9 @@ export const signUp = async (req, res, next) => {
 
     cookies.set(res, 'token', token);
 
-    logger.info(`User registered Successfully: ${email}`);
-    res.status(201).json({
+    logger.info(`User registered successfully: ${email}`);
+
+    return res.status(201).json({
       message: 'User registered',
       user: {
         id: user.id,
@@ -40,10 +41,13 @@ export const signUp = async (req, res, next) => {
   } catch (e) {
     logger.error('Signup error', e);
 
-    if (e.message === 'User with this email already exists') {
-      return res.status(409).json({ error: 'Email already exist' });
+    if (e.message === 'User already exists') {
+      return res.status(409).json({ error: 'Email already exists' });
     }
 
-    next(e);
+    return res.status(500).json({
+      error: 'Signup failed',
+      message: e.message,
+    });
   }
 };
