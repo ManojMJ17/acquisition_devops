@@ -37,6 +37,9 @@ services:
       - ./package.json:/app/package.json:ro
       # Exclude node_modules to prevent conflicts
       - /app/node_modules
+      - ./logs:/app/logs
+      - ./drizzle.config.js:/app/drizzle.config.js:ro
+      - ./drizzle:/app/drizzle
     networks:
       - acquisition-network
     depends_on:
