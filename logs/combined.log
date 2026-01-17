@@ -888,3 +888,101 @@
 {"level":"info","message":"::1 - - [16/Jan/2026:15:39:14 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [16/Jan/2026:15:39:46 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [16/Jan/2026:15:40:18 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:40:50 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:41:22 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:41:54 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:42:26 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:42:58 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:43:30 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:44:03 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:44:35 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:45:07 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:45:39 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:46:11 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:46:43 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:47:15 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:47:48 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:48:20 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:48:52 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:49:25 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:49:57 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:50:29 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:51:02 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:51:34 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:52:05 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:52:38 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:53:10 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:53:42 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:54:14 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:54:46 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:55:19 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:55:51 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:56:23 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:56:55 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:57:27 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:57:59 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:58:31 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:59:03 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:15:59:36 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:00:10 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:00:42 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:12:39 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:13:11 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:13:43 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:14:16 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:14:49 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:15:20 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:15:53 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:16:25 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:16:57 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:17:30 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:18:02 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:18:34 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:19:06 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisition!$","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [16/Jan/2026:16:19:38 +0000] \"GET / HTTP/1.1\" 200 22 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:19:39 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [16/Jan/2026:16:19:42 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisition!$","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [16/Jan/2026:16:19:48 +0000] \"GET / HTTP/1.1\" 200 22 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [16/Jan/2026:16:20:02 +0000] \"GET /api/users/ HTTP/1.1\" 200 211 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:20:11 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:20:43 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:21:15 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisition!$","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [16/Jan/2026:16:21:24 +0000] \"GET / HTTP/1.1\" 200 22 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:21:48 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:22:20 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: manojkumar@chan.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [16/Jan/2026:16:22:53 +0000] \"GET /api/users/ HTTP/1.1\" 200 211 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:22:55 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisition!$","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [16/Jan/2026:16:23:08 +0000] \"GET / HTTP/1.1\" 200 22 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [16/Jan/2026:16:23:15 +0000] \"GET /api/users/ HTTP/1.1\" 401 72 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:23:27 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisition!$","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [16/Jan/2026:16:23:48 +0000] \"GET / HTTP/1.1\" 200 22 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"User test@gmail.com created successfully","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: test@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [16/Jan/2026:16:23:55 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 98 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:23:59 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User manojkumar@chan.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: manojkumar@chan.com","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [16/Jan/2026:16:24:02 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 117 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: manojkumar@chan.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [16/Jan/2026:16:24:26 +0000] \"GET /api/users/ HTTP/1.1\" 200 353 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [16/Jan/2026:16:24:31 +0000] \"GET /api/users/ HTTP/1.1\" 401 72 \"-\" \"PostmanRuntime/7.51.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:24:32 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:25:04 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:25:36 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:26:08 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:26:41 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:27:13 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:27:45 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Jan/2026:16:28:17 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Jan/2026:16:31:52 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Jan/2026:16:31:52 +0000] \"GET /api HTTP/1.1\" 200 38 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [16/Jan/2026:16:31:52 +0000] \"GET /nonexsistent HTTP/1.1\" 404 27 \"-\" \"-\"","service":"acquisitions-api"}
