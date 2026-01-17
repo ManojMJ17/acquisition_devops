@@ -5,6 +5,11 @@ A production-grade backend API built with **Node.js, Docker, Neon, and Drizzle O
 This project demonstrates how modern backend systems are built, tested, containerized, and deployed.
 
 ---
+🎥 Demo Videos:  
+https://github.com/ManojMJ17/acquisition_devops/releases/tag/v1.0.0
+---
+
+---
 
 ## 🧠 Tech Stack
 
